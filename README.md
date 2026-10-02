@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Meerub 👋
 
-<!--
-**meerub1213/meerub1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Student - Essentials of AI (Fall 2026)**
+I'm starting my journey into Artificial Intelligence, learning how to build my digital portfolio with AI tools.
 
-Here are some ideas to get you started:
+#### 🌱 Currently Learning
+- Python Programming
+- Basics of Machine Learning  
+- AI Ethics & Responsible AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tools I Use
+- Python | GitHub | Generative AI
+
+#### 🎯 My Goals
+- To build a professional GitHub profile as my living CV
+- To learn AI fundamentals
+
+#### 📫 Let's Connect
+- GitHub: https://github.com/meerub1213
+
+> *This profile was created with AI assistance for Assignment 1.*
+> 
